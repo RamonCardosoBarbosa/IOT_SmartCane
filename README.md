@@ -18,5 +18,6 @@ Esse é um projeto destinado a matéria de objeto inteligentes conectados (OIC) 
 
 # Bibliotecas
 
-[**Ultrasonic sensor**](https://github.com/ErickSimoes/Ultrasonic) - Biblioteca utiliza no arduino para utilizar o sensor de distância HC-SR04
-[**Firmata**](https://github.com/firmata/arduino) - Biblioteca utilizada para fazer a comuinicação entre o Arduino e o Node-RED
+[**Ultrasonic sensor**](https://github.com/ErickSimoes/Ultrasonic) - Biblioteca utiliza no arduino para utilizar o sensor de distância HC-SR04.
+
+[**Firmata**](https://github.com/firmata/arduino) - Biblioteca utilizada para fazer a comuinicação entre o Arduino e o Node-RED.
