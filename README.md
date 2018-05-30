@@ -1,5 +1,13 @@
 # SmartCane
 
+<p align="center">
+  <img src="https://github.com/RamonCardosoBarbosa/SmartCane/blob/master/hardware/images/DeepinScreenshot_select-area_20180529211206.png" width="350"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/RamonCardosoBarbosa/SmartCane/blob/master/prototipo.png" width="350"/>
+</p>
+
 Esse é um projeto destinado a matéria de objeto inteligentes conectados (OIC) da turma 05J11 do primeiro semestre de 2018 e consiste basicamente em criar uma bengala inteligente, no qual, essa bengala terá um sensor de distância ultrassônico que reconhecerá objetos no caminho e este objeto estando dentro de uma distância de 1 metro o sistema ativará um motor de vibração para avisar a pessoa que esteja utilizando a bengala e enviará uma mensagem ao Telegram do usuário avisando que tem objeto a frente. 
 
 # Integrantes do grupo
