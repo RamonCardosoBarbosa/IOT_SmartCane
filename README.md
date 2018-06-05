@@ -1,7 +1,7 @@
 # SmartCane
 
 <p align="center">
-  <img src="https://github.com/RamonCardosoBarbosa/SmartCane/blob/master/hardware/images/DeepinScreenshot_select-area_20180529211206.png" width="350"/>
+  <img src="https://github.com/RamonCardosoBarbosa/SmartCane/blob/master/hardware/images/projeto.png" width="350"/>
 </p>
 
 <p align="center">
