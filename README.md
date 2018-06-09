@@ -17,7 +17,7 @@ Esse é um projeto destinado a matéria de objeto inteligentes conectados (OIC) 
 # Integrantes do grupo
 
 * Daniel Felipe - 41584945 - danielfelipe982008@hotmail.com - [GitHub Pages](https://github.com/DanielFelipe01)
-* Dario Téles - 41582391 - dario.teles@outlook.com - [GitHub Pages](https://github.com/DarioTeles)
+* Dário Teles - 41582391 - dario.teles@outlook.com - [GitHub Pages](https://github.com/DarioTeles)
 * Ramon Cardoso Barbosa - 41582802 - cardosoramonbarbosa@hotmail.com - [GitHub Pages](https://github.com/RamonCardosoBarbosa)
 
 # Conteúdo do repositório
